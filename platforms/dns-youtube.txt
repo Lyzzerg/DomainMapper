@@ -12,11 +12,18 @@ rr1.sn-p5qlsn7l.googlevideo.com
 rr1.sn-p5qs7n6d.googlevideo.com
 rr1.sn-vgqsknze.googlevideo.com
 rr1.sn-vgqsknzk.googlevideo.com
+rr10---sn-axq7sn7l.googlevideo.com
+rr10---sn-axq7sn7z.googlevideo.com
 rr11---sn-n8v7snl7.googlevideo.com
 rr12.sn-n8v7znss.googlevideo.com
 rr12---sn-n8v7znss.googlevideo.com
+rr14---sn-axq7sn7l.googlevideo.com
+rr15---sn-axq7sn76.googlevideo.com
+rr18---sn-axq7sn7e.googlevideo.com
+rr18---sn-axq7sn7s.googlevideo.com
 rr1---sn-4g5lznek.googlevideo.com
 rr1---sn-4ox-ixal.googlevideo.com
+rr1---sn-c0q7lnly.googlevideo.com
 rr1---sn-p5qlsn7l.googlevideo.com
 rr1---sn-p5qs7n6d.googlevideo.com
 rr1---sn-vgqsknzk.googlevideo.com
@@ -29,6 +36,8 @@ rr2.sn-vgqsknez.googlevideo.com
 rr2.sn-vgqsrnl6.googlevideo.com
 rr2.sn-vgqsrnzk.googlevideo.com
 rr2---sn-4ox-ixal.googlevideo.com
+rr2---sn-5goeenes.googlevideo.com
+rr2---sn-jvhnu5g-38me.googlevideo.com
 rr2---sn-p5qddn76.googlevideo.com
 rr2---sn-p5qs7nzk.googlevideo.com
 rr2---sn-po4vapo3g0-jnte.googlevideo.com
@@ -38,6 +47,9 @@ rr3.sn-4g5ednsl.googlevideo.com
 rr3.sn-ixh7yn7d.googlevideo.com
 rr3.sn-p5qs7n6d.googlevideo.com
 rr3.sn-q4flrn7y.googlevideo.com
+rr3---sn-axq7sn76.googlevideo.com
+rr3---sn-axq7sn7s.googlevideo.com
+rr3---sn-axq7sn7z.googlevideo.com
 rr3---sn-4g5ednsl.googlevideo.com
 rr3---sn-ixh7yn7d.googlevideo.com
 rr3---sn-p5qs7n6d.googlevideo.com
@@ -45,6 +57,7 @@ rr3---sn-q4flrn7y.googlevideo.com
 rr4.sn-jvhnu5g-n8vy.googlevideo.com
 rr4.sn-p5qlsn7d.googlevideo.com
 rr4.sn-vgqsknz6.googlevideo.com
+rr4---sn-c0q7lnz7.googlevideo.com
 rr4---sn-jvhnu5g-n8vy.googlevideo.com
 rr4---sn-p5qlsn7d.googlevideo.com
 rr4---sn-vgqsknz6.googlevideo.com
@@ -60,6 +73,7 @@ rr5.sn-vgqsknzr.googlevideo.com
 rr5.sn-vgqsrn6e.googlevideo.com
 rr5.sn-vgqsrnld.googlevideo.com
 rr5.sn-vgqsrnzd.googlevideo.com
+rr5---sn-c0q7lnz7.googlevideo.com
 rr5---sn-ixh7rn76.googlevideo.com
 rr5---sn-ixh7yn7e.googlevideo.com
 rr5---sn-jvhnu5g-c35s.googlevideo.com
@@ -72,8 +86,12 @@ rr5---sn-vgqsknz6.googlevideo.com
 rr5---sn-vgqsrnld.googlevideo.com
 rr6.sn-jvhnu5g-c35d.googlevideo.com
 rr6.sn-jvhnu5g-n8vy.googlevideo.com
+rr6---sn-axq7sn7l.googlevideo.com
 rr6---sn-jvhnu5g-c35d.googlevideo.com
 rr6---sn-jvhnu5g-n8vy.googlevideo.com
+rr7---sn-axq7sn76.googlevideo.com
+rr8---sn-axq7sn7z.googlevideo.com
+rr9---sn-n8v7znsd.googlevideo.com
 s.youtube.com
 wide-youtube.l.google.com
 www.youtube.com
